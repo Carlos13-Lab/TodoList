@@ -1,2 +1,7 @@
 # TodoList
-CRUD Js
+ 
+ 
+ 
+Very simple CRUD made from Js.
+
+
